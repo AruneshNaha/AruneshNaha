@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning React.JS
 - 💬 Ask me about OOPS,Android, Web Development.
 
+I own certificates in C++, MERN full stack, Mysql, Nodejs backend development, reactjs frontend development, and flutter app development
+
 <a href="https://twitter.com/AruneshNaha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="neel13040" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/arunesh-naha-358b6b15b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="argha-Roy" height="30" width="30" /></a>
 <a href="https://www.instagram.com/sumu.js/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="neel1304" height="30" width="30" /></a>
